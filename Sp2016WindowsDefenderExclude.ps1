@@ -19,6 +19,7 @@ Add-MpPreference -ExclusionPath "C:\Windows\Syswow64\LogFiles"
 
 # just change the user Name of SearchService... in our case it's SP_Crawl
 Add-MpPreference -ExclusionPath "C:\Users\SP_Crawl\AppData\Local\Temp"
+
 Add-MpPreference -ExclusionPath "C:\Users\Default\AppData\Local\Temp"
 Add-MpPreference -ExclusionPath "C:\inetpub\wwwroot\wss\VirtualDirectories" 
 Add-MpPreference -ExclusionPath "C:\inetpub\temp\IIS Temporary Compressed Files" 

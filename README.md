@@ -9,5 +9,8 @@ feel free to update and help to grow
 
 sharing is caring .. so enjoy
 
+
 Cheers Lars Platzdasch 
 feel free to contact me..
+
+blog.platzdasch.de 
